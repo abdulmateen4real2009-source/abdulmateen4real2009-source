@@ -1,16 +1,45 @@
-## Hi there 👋
+# 🚀 NOVA | Creative Developer
 
-<!--
-**abdulmateen4real2009-source/abdulmateen4real2009-source** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I’m Abdul (NOVA) 👋
+I design, build, and write digital experiences that help businesses grow.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💼 What I Do
+
+* 🎨 Graphic Design (Logos, Banners, Thumbnails)
+* 💻 Web Development (Landing Pages, Websites)
+* ✍️ Content Writing (Blogs, Product Content)
+
+---
+
+## 🛠️ Tech Stack
+
+* HTML, CSS, JavaScript
+* Git & GitHub
+* Responsive Design
+
+---
+
+## 📂 Featured Project
+
+### 🔥 NOVA Portfolio
+
+Modern animated portfolio with gallery, dark mode & WhatsApp integration
+
+👉 [https://](https://abdulmateen4real2009.github.io/nova-portfolio/)[abdulmateen4real2009](https://abdulmateen4real2009.github.io/nova-portfolio/)[.github.io/nova-portfolio/](https://abdulmateen4real2009.github.io/nova-portfolio/)
+
+---
+
+## 📞 Contact Me
+
+* 📱 WhatsApp: https://wa.me/2349135196246
+* 💼 GitHub: https://github.com/abdulmateen4real2009-source
+
+---
+
+## 🎯 Goal
+
+To build high-quality digital products and grow into a professional freelance developer.
+
+---
